@@ -1,0 +1,261 @@
+customer_id,region,channel,annual_qty,tier,payment_terms_days
+C-2000,West,Distributor,104,"Tier 3 (Core, 40-149 units/yr)",30
+C-2001,North,Direct,45,"Tier 3 (Core, 40-149 units/yr)",60
+C-2002,North,E-Commerce,425,"Tier 2 (Key, 150-499 units/yr)",60
+C-2003,North,Direct,148,"Tier 3 (Core, 40-149 units/yr)",30
+C-2004,South,Direct,74,"Tier 3 (Core, 40-149 units/yr)",45
+C-2005,North,Direct,4,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2006,North,Distributor,366,"Tier 2 (Key, 150-499 units/yr)",45
+C-2007,North,Distributor,40,"Tier 3 (Core, 40-149 units/yr)",30
+C-2008,West,Distributor,25,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2009,East,Direct,37,"Tier 4 (Long Tail, <40 units/yr)",90
+C-2010,South,Distributor,159,"Tier 2 (Key, 150-499 units/yr)",45
+C-2011,North,E-Commerce,11,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2012,North,Direct,142,"Tier 3 (Core, 40-149 units/yr)",15
+C-2013,South,Distributor,68,"Tier 3 (Core, 40-149 units/yr)",30
+C-2014,South,Distributor,29,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2015,West,Direct,215,"Tier 2 (Key, 150-499 units/yr)",90
+C-2016,North,OEM,22,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2017,West,OEM,120,"Tier 3 (Core, 40-149 units/yr)",15
+C-2018,Central,Distributor,18,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2019,North,Direct,36,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2020,Central,Distributor,157,"Tier 2 (Key, 150-499 units/yr)",30
+C-2021,West,OEM,318,"Tier 2 (Key, 150-499 units/yr)",45
+C-2022,East,Distributor,52,"Tier 3 (Core, 40-149 units/yr)",15
+C-2023,North,Direct,417,"Tier 2 (Key, 150-499 units/yr)",45
+C-2024,Central,Direct,61,"Tier 3 (Core, 40-149 units/yr)",30
+C-2025,West,Direct,4,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2026,Central,OEM,19,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2027,Central,OEM,28,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2028,West,E-Commerce,61,"Tier 3 (Core, 40-149 units/yr)",30
+C-2029,North,Direct,192,"Tier 2 (Key, 150-499 units/yr)",30
+C-2030,North,Distributor,80,"Tier 3 (Core, 40-149 units/yr)",30
+C-2031,North,Direct,76,"Tier 3 (Core, 40-149 units/yr)",30
+C-2032,East,OEM,44,"Tier 3 (Core, 40-149 units/yr)",30
+C-2033,Central,E-Commerce,92,"Tier 3 (Core, 40-149 units/yr)",30
+C-2034,South,Direct,4,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2035,East,Direct,52,"Tier 3 (Core, 40-149 units/yr)",30
+C-2036,North,Distributor,42,"Tier 3 (Core, 40-149 units/yr)",90
+C-2037,South,OEM,80,"Tier 3 (Core, 40-149 units/yr)",60
+C-2038,South,Distributor,152,"Tier 2 (Key, 150-499 units/yr)",45
+C-2039,East,Direct,16,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2040,North,Distributor,15,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2041,North,Distributor,26,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2042,West,Distributor,13,"Tier 4 (Long Tail, <40 units/yr)",90
+C-2043,North,Direct,101,"Tier 3 (Core, 40-149 units/yr)",30
+C-2044,West,Distributor,157,"Tier 2 (Key, 150-499 units/yr)",45
+C-2045,South,Direct,11,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2046,South,Direct,76,"Tier 3 (Core, 40-149 units/yr)",60
+C-2047,Central,E-Commerce,150,"Tier 2 (Key, 150-499 units/yr)",60
+C-2048,North,E-Commerce,22,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2049,North,Direct,73,"Tier 3 (Core, 40-149 units/yr)",45
+C-2050,West,Direct,617,"Tier 1 (Strategic, 500+ units/yr)",60
+C-2051,North,Direct,101,"Tier 3 (Core, 40-149 units/yr)",60
+C-2052,West,Distributor,191,"Tier 2 (Key, 150-499 units/yr)",15
+C-2053,South,Direct,93,"Tier 3 (Core, 40-149 units/yr)",30
+C-2054,Central,Distributor,49,"Tier 3 (Core, 40-149 units/yr)",60
+C-2055,East,Distributor,85,"Tier 3 (Core, 40-149 units/yr)",45
+C-2056,South,Direct,123,"Tier 3 (Core, 40-149 units/yr)",45
+C-2057,North,E-Commerce,17,"Tier 4 (Long Tail, <40 units/yr)",90
+C-2058,North,E-Commerce,40,"Tier 3 (Core, 40-149 units/yr)",30
+C-2059,Central,E-Commerce,138,"Tier 3 (Core, 40-149 units/yr)",60
+C-2060,Central,Direct,18,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2061,East,E-Commerce,7,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2062,East,E-Commerce,17,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2063,East,E-Commerce,66,"Tier 3 (Core, 40-149 units/yr)",60
+C-2064,South,Direct,223,"Tier 2 (Key, 150-499 units/yr)",60
+C-2065,West,E-Commerce,214,"Tier 2 (Key, 150-499 units/yr)",90
+C-2066,West,Distributor,106,"Tier 3 (Core, 40-149 units/yr)",60
+C-2067,West,E-Commerce,1400,"Tier 1 (Strategic, 500+ units/yr)",30
+C-2068,East,Direct,19,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2069,East,Direct,40,"Tier 3 (Core, 40-149 units/yr)",45
+C-2070,North,Distributor,29,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2071,North,Distributor,224,"Tier 2 (Key, 150-499 units/yr)",15
+C-2072,East,Distributor,57,"Tier 3 (Core, 40-149 units/yr)",60
+C-2073,Central,Distributor,23,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2074,South,Direct,23,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2075,Central,OEM,165,"Tier 2 (Key, 150-499 units/yr)",45
+C-2076,North,Direct,11,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2077,West,OEM,35,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2078,South,Direct,861,"Tier 1 (Strategic, 500+ units/yr)",30
+C-2079,West,Direct,208,"Tier 2 (Key, 150-499 units/yr)",30
+C-2080,East,Direct,97,"Tier 3 (Core, 40-149 units/yr)",45
+C-2081,East,Direct,149,"Tier 3 (Core, 40-149 units/yr)",30
+C-2082,East,Direct,455,"Tier 2 (Key, 150-499 units/yr)",30
+C-2083,East,Distributor,8,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2084,North,Distributor,15,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2085,East,E-Commerce,99,"Tier 3 (Core, 40-149 units/yr)",45
+C-2086,South,Distributor,429,"Tier 2 (Key, 150-499 units/yr)",90
+C-2087,South,E-Commerce,10,"Tier 4 (Long Tail, <40 units/yr)",90
+C-2088,North,Direct,78,"Tier 3 (Core, 40-149 units/yr)",60
+C-2089,North,OEM,24,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2090,East,E-Commerce,86,"Tier 3 (Core, 40-149 units/yr)",60
+C-2091,West,Direct,22,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2092,Central,Distributor,144,"Tier 3 (Core, 40-149 units/yr)",30
+C-2093,West,Direct,120,"Tier 3 (Core, 40-149 units/yr)",90
+C-2094,West,OEM,41,"Tier 3 (Core, 40-149 units/yr)",30
+C-2095,Central,Distributor,227,"Tier 2 (Key, 150-499 units/yr)",60
+C-2096,South,Direct,132,"Tier 3 (Core, 40-149 units/yr)",90
+C-2097,North,Direct,36,"Tier 4 (Long Tail, <40 units/yr)",90
+C-2098,East,Distributor,61,"Tier 3 (Core, 40-149 units/yr)",30
+C-2099,South,OEM,118,"Tier 3 (Core, 40-149 units/yr)",60
+C-2100,North,Distributor,122,"Tier 3 (Core, 40-149 units/yr)",15
+C-2101,East,Distributor,123,"Tier 3 (Core, 40-149 units/yr)",60
+C-2102,North,OEM,18,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2103,North,Direct,35,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2104,North,E-Commerce,29,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2105,South,OEM,73,"Tier 3 (Core, 40-149 units/yr)",90
+C-2106,West,Distributor,21,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2107,Central,Direct,41,"Tier 3 (Core, 40-149 units/yr)",45
+C-2108,North,Direct,53,"Tier 3 (Core, 40-149 units/yr)",30
+C-2109,West,OEM,37,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2110,South,E-Commerce,47,"Tier 3 (Core, 40-149 units/yr)",30
+C-2111,Central,Direct,92,"Tier 3 (Core, 40-149 units/yr)",90
+C-2112,North,Distributor,73,"Tier 3 (Core, 40-149 units/yr)",90
+C-2113,East,Distributor,55,"Tier 3 (Core, 40-149 units/yr)",45
+C-2114,East,E-Commerce,897,"Tier 1 (Strategic, 500+ units/yr)",15
+C-2115,South,E-Commerce,20,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2116,South,Direct,940,"Tier 1 (Strategic, 500+ units/yr)",45
+C-2117,South,Distributor,19,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2118,South,OEM,85,"Tier 3 (Core, 40-149 units/yr)",45
+C-2119,North,E-Commerce,625,"Tier 1 (Strategic, 500+ units/yr)",60
+C-2120,Central,E-Commerce,9,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2121,North,Distributor,590,"Tier 1 (Strategic, 500+ units/yr)",60
+C-2122,Central,OEM,5,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2123,East,Distributor,317,"Tier 2 (Key, 150-499 units/yr)",30
+C-2124,West,E-Commerce,54,"Tier 3 (Core, 40-149 units/yr)",60
+C-2125,South,Distributor,58,"Tier 3 (Core, 40-149 units/yr)",30
+C-2126,North,OEM,63,"Tier 3 (Core, 40-149 units/yr)",45
+C-2127,South,Direct,106,"Tier 3 (Core, 40-149 units/yr)",45
+C-2128,East,E-Commerce,410,"Tier 2 (Key, 150-499 units/yr)",45
+C-2129,East,E-Commerce,63,"Tier 3 (Core, 40-149 units/yr)",30
+C-2130,West,Direct,126,"Tier 3 (Core, 40-149 units/yr)",30
+C-2131,North,Distributor,323,"Tier 2 (Key, 150-499 units/yr)",45
+C-2132,Central,Direct,11,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2133,West,Distributor,3,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2134,South,E-Commerce,5,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2135,South,Distributor,50,"Tier 3 (Core, 40-149 units/yr)",30
+C-2136,North,Direct,87,"Tier 3 (Core, 40-149 units/yr)",60
+C-2137,East,OEM,16,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2138,North,Direct,27,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2139,East,Direct,19,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2140,North,OEM,702,"Tier 1 (Strategic, 500+ units/yr)",45
+C-2141,North,E-Commerce,57,"Tier 3 (Core, 40-149 units/yr)",90
+C-2142,West,OEM,47,"Tier 3 (Core, 40-149 units/yr)",30
+C-2143,North,Distributor,40,"Tier 3 (Core, 40-149 units/yr)",45
+C-2144,East,OEM,7,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2145,South,OEM,322,"Tier 2 (Key, 150-499 units/yr)",60
+C-2146,North,Distributor,1400,"Tier 1 (Strategic, 500+ units/yr)",45
+C-2147,South,Direct,234,"Tier 2 (Key, 150-499 units/yr)",30
+C-2148,North,E-Commerce,23,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2149,West,OEM,13,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2150,East,OEM,60,"Tier 3 (Core, 40-149 units/yr)",30
+C-2151,North,Direct,17,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2152,South,E-Commerce,182,"Tier 2 (Key, 150-499 units/yr)",45
+C-2153,North,Direct,653,"Tier 1 (Strategic, 500+ units/yr)",30
+C-2154,North,Direct,23,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2155,Central,Direct,28,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2156,North,Distributor,77,"Tier 3 (Core, 40-149 units/yr)",90
+C-2157,Central,OEM,51,"Tier 3 (Core, 40-149 units/yr)",30
+C-2158,Central,Distributor,104,"Tier 3 (Core, 40-149 units/yr)",45
+C-2159,South,OEM,15,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2160,East,Direct,20,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2161,East,Direct,5,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2162,East,Direct,50,"Tier 3 (Core, 40-149 units/yr)",30
+C-2163,North,Direct,11,"Tier 4 (Long Tail, <40 units/yr)",90
+C-2164,South,OEM,201,"Tier 2 (Key, 150-499 units/yr)",60
+C-2165,East,Distributor,25,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2166,West,E-Commerce,115,"Tier 3 (Core, 40-149 units/yr)",30
+C-2167,West,E-Commerce,41,"Tier 3 (Core, 40-149 units/yr)",30
+C-2168,East,OEM,61,"Tier 3 (Core, 40-149 units/yr)",30
+C-2169,West,Direct,44,"Tier 3 (Core, 40-149 units/yr)",30
+C-2170,West,Distributor,91,"Tier 3 (Core, 40-149 units/yr)",30
+C-2171,Central,Distributor,31,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2172,East,Direct,3,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2173,East,Direct,14,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2174,Central,Distributor,160,"Tier 2 (Key, 150-499 units/yr)",30
+C-2175,Central,Distributor,3,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2176,East,Distributor,84,"Tier 3 (Core, 40-149 units/yr)",60
+C-2177,West,Direct,31,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2178,North,Distributor,160,"Tier 2 (Key, 150-499 units/yr)",60
+C-2179,Central,Direct,17,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2180,West,Direct,38,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2181,West,OEM,15,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2182,South,Direct,93,"Tier 3 (Core, 40-149 units/yr)",30
+C-2183,Central,Distributor,626,"Tier 1 (Strategic, 500+ units/yr)",30
+C-2184,North,Distributor,127,"Tier 3 (Core, 40-149 units/yr)",45
+C-2185,East,Direct,50,"Tier 3 (Core, 40-149 units/yr)",60
+C-2186,West,E-Commerce,62,"Tier 3 (Core, 40-149 units/yr)",60
+C-2187,North,Distributor,140,"Tier 3 (Core, 40-149 units/yr)",45
+C-2188,Central,E-Commerce,433,"Tier 2 (Key, 150-499 units/yr)",45
+C-2189,North,E-Commerce,28,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2190,East,Distributor,58,"Tier 3 (Core, 40-149 units/yr)",15
+C-2191,South,OEM,226,"Tier 2 (Key, 150-499 units/yr)",15
+C-2192,East,E-Commerce,14,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2193,South,OEM,6,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2194,North,Direct,38,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2195,South,E-Commerce,7,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2196,North,OEM,604,"Tier 1 (Strategic, 500+ units/yr)",30
+C-2197,Central,Direct,236,"Tier 2 (Key, 150-499 units/yr)",30
+C-2198,North,OEM,1400,"Tier 1 (Strategic, 500+ units/yr)",30
+C-2199,Central,Direct,58,"Tier 3 (Core, 40-149 units/yr)",30
+C-2200,East,Direct,52,"Tier 3 (Core, 40-149 units/yr)",60
+C-2201,South,Distributor,26,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2202,North,Direct,275,"Tier 2 (Key, 150-499 units/yr)",60
+C-2203,Central,Distributor,3,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2204,North,Direct,12,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2205,West,Direct,532,"Tier 1 (Strategic, 500+ units/yr)",30
+C-2206,North,Direct,139,"Tier 3 (Core, 40-149 units/yr)",60
+C-2207,North,OEM,12,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2208,West,E-Commerce,39,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2209,South,OEM,33,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2210,North,Direct,118,"Tier 3 (Core, 40-149 units/yr)",30
+C-2211,North,Direct,36,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2212,West,Direct,181,"Tier 2 (Key, 150-499 units/yr)",30
+C-2213,South,Distributor,42,"Tier 3 (Core, 40-149 units/yr)",30
+C-2214,East,Distributor,10,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2215,Central,OEM,534,"Tier 1 (Strategic, 500+ units/yr)",30
+C-2216,Central,OEM,51,"Tier 3 (Core, 40-149 units/yr)",30
+C-2217,North,Direct,229,"Tier 2 (Key, 150-499 units/yr)",45
+C-2218,North,OEM,9,"Tier 4 (Long Tail, <40 units/yr)",90
+C-2219,East,Direct,143,"Tier 3 (Core, 40-149 units/yr)",30
+C-2220,South,Distributor,70,"Tier 3 (Core, 40-149 units/yr)",45
+C-2221,West,Direct,15,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2222,East,OEM,76,"Tier 3 (Core, 40-149 units/yr)",30
+C-2223,Central,Distributor,195,"Tier 2 (Key, 150-499 units/yr)",30
+C-2224,North,OEM,24,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2225,East,Direct,56,"Tier 3 (Core, 40-149 units/yr)",30
+C-2226,West,Direct,16,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2227,East,OEM,9,"Tier 4 (Long Tail, <40 units/yr)",90
+C-2228,North,Direct,17,"Tier 4 (Long Tail, <40 units/yr)",45
+C-2229,North,Distributor,135,"Tier 3 (Core, 40-149 units/yr)",45
+C-2230,North,Direct,243,"Tier 2 (Key, 150-499 units/yr)",60
+C-2231,East,OEM,21,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2232,West,OEM,137,"Tier 3 (Core, 40-149 units/yr)",30
+C-2233,East,Distributor,26,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2234,North,Distributor,49,"Tier 3 (Core, 40-149 units/yr)",60
+C-2235,West,OEM,122,"Tier 3 (Core, 40-149 units/yr)",45
+C-2236,South,Distributor,161,"Tier 2 (Key, 150-499 units/yr)",30
+C-2237,Central,E-Commerce,99,"Tier 3 (Core, 40-149 units/yr)",15
+C-2238,North,Distributor,95,"Tier 3 (Core, 40-149 units/yr)",90
+C-2239,North,OEM,71,"Tier 3 (Core, 40-149 units/yr)",30
+C-2240,Central,OEM,51,"Tier 3 (Core, 40-149 units/yr)",30
+C-2241,West,Direct,132,"Tier 3 (Core, 40-149 units/yr)",45
+C-2242,North,OEM,31,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2243,West,Direct,36,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2244,South,Distributor,358,"Tier 2 (Key, 150-499 units/yr)",60
+C-2245,East,Direct,70,"Tier 3 (Core, 40-149 units/yr)",15
+C-2246,Central,OEM,60,"Tier 3 (Core, 40-149 units/yr)",90
+C-2247,South,OEM,218,"Tier 2 (Key, 150-499 units/yr)",30
+C-2248,Central,E-Commerce,1084,"Tier 1 (Strategic, 500+ units/yr)",60
+C-2249,South,Distributor,34,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2250,South,Direct,31,"Tier 4 (Long Tail, <40 units/yr)",30
+C-2251,North,Direct,37,"Tier 4 (Long Tail, <40 units/yr)",15
+C-2252,South,OEM,52,"Tier 3 (Core, 40-149 units/yr)",30
+C-2253,Central,OEM,74,"Tier 3 (Core, 40-149 units/yr)",15
+C-2254,Central,Distributor,196,"Tier 2 (Key, 150-499 units/yr)",45
+C-2255,North,E-Commerce,41,"Tier 3 (Core, 40-149 units/yr)",30
+C-2256,East,Distributor,67,"Tier 3 (Core, 40-149 units/yr)",30
+C-2257,North,Direct,103,"Tier 3 (Core, 40-149 units/yr)",30
+C-2258,North,E-Commerce,23,"Tier 4 (Long Tail, <40 units/yr)",60
+C-2259,Central,E-Commerce,256,"Tier 2 (Key, 150-499 units/yr)",30

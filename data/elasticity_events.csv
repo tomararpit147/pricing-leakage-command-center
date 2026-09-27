@@ -1,0 +1,13 @@
+product_id,product_name,change_date,pct_price_change,pre_avg_daily_qty,post_avg_daily_qty,pct_qty_change,elasticity,interpretation
+P-1001,Industrial Valve A200,2025-07-04,0.05,10.64,12.4,0.1649,3.3,Elastic (demand sensitive to price)
+P-1002,Industrial Valve A400,2024-05-05,0.05,17.18,12.84,-0.2523,-5.05,Elastic (demand sensitive to price)
+P-1002,Industrial Valve A400,2025-10-14,0.03,10.69,10.44,-0.0229,-0.76,Inelastic (demand relatively insensitive)
+P-1003,Pressure Sensor S10,2024-11-22,0.03,16.11,13.38,-0.1697,-5.66,Elastic (demand sensitive to price)
+P-1003,Pressure Sensor S10,2025-05-19,0.07,13.4,14.42,0.0763,1.09,Elastic (demand sensitive to price)
+P-1004,Pressure Sensor S20,2024-08-13,0.04,17.11,15.51,-0.0935,-2.34,Elastic (demand sensitive to price)
+P-1004,Pressure Sensor S20,2025-10-04,0.05,8.76,12.58,0.4365,8.73,Elastic (demand sensitive to price)
+P-1005,Hydraulic Pump H100,2024-08-13,0.03,17.73,15.18,-0.1441,-4.8,Elastic (demand sensitive to price)
+P-1005,Hydraulic Pump H100,2025-03-08,-0.03,11.67,17.76,0.5219,-17.4,Elastic (demand sensitive to price)
+P-1006,Hydraulic Pump H250,2024-05-25,0.03,14.69,16.44,0.1195,3.98,Elastic (demand sensitive to price)
+P-1007,Control Module CM3,2024-09-27,0.03,13.44,14.36,0.0678,2.26,Elastic (demand sensitive to price)
+P-1008,Control Module CM5,2025-10-12,0.07,18.09,14.4,-0.2039,-2.91,Elastic (demand sensitive to price)

@@ -1,0 +1,9 @@
+product_id,product_name,base_list_price,category
+P-1001,Industrial Valve A200,4200,Valves
+P-1002,Industrial Valve A400,6800,Valves
+P-1003,Pressure Sensor S10,950,Sensors
+P-1004,Pressure Sensor S20,1450,Sensors
+P-1005,Hydraulic Pump H100,12500,Pumps
+P-1006,Hydraulic Pump H250,21800,Pumps
+P-1007,Control Module CM3,3100,Controls
+P-1008,Control Module CM5,4750,Controls
